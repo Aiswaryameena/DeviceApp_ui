@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menu_red"
+        android:orderInCategory="1"
+        android:title="Share"/>
+    <item
+        android:id="@+id/menu_green"
+        android:orderInCategory="2"
+        android:title="Save Image"/>
+    <item
+        android:id="@+id/menu_blue"
+        android:orderInCategory="2"
+        android:title="Tag"/>
+</menu>
